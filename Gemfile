@@ -25,6 +25,8 @@ group :production do
   gem 'rails_12factor'
 end
 
+gem 'paperclip', '4.2.1'
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
